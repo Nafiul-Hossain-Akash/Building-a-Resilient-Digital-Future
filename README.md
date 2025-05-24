@@ -4,25 +4,25 @@ Here is a revised version of your assignment with synonymous wording, maintainin
 
 ---
 
-#####**ASSIGNMENT**
+**ASSIGNMENT**<br>
 
-**Course Title:** *Building a Resilient Digital Future: Suggesting Legal Reforms for Cyber Law in Bangladesh Through Global Best Practices*
-**Course Code:** *CSE 455*
+**Course Title:** *Building a Resilient Digital Future: Suggesting Legal Reforms for Cyber Law in Bangladesh Through Global Best Practices*<br>
+**Course Code:** *CSE 455*<br>
 **Course Name:** *Computer Ethics and Cyber Law*
 
-**Submitted by:**
-#####**Name:** MD.NAFIUL HOSSAIN AKASH
-**ID:** 2002016
-**Level:** 4, **Semester:** 2
-**Institution:** Hajee Mohammad Danesh Science & Technology University
+**Submitted by:**<br>
+**Name:** MD.NAFIUL HOSSAIN AKASH<br>
+**ID:** 2002016<br>
+**Level:** 4, **Semester:** 2<br>
+**Institution:** Hajee Mohammad Danesh Science & Technology University<br>
 
-###**Submitted to:**
-###**Name:** Pankaj Bhowmik
-###**Designation:** Lecturer
-###**Department:** Computer Science and Engineering
-###**Institution:** Hajee Mohammad Danesh Science & Technology University
+**Submitted to:**<br>
+**Name:** Pankaj Bhowmik<br>
+**Designation:** Lecturer<br>
+**Department:** Computer Science and Engineering<br>
+**Institution:** Hajee Mohammad Danesh Science & Technology University<br>
 
-###**Submission Date:** 24 May 2025
+**Submission Date:** 24 May 2025
 
 ---
 
