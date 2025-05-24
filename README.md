@@ -6,7 +6,7 @@ Here is a revised version of your assignment with synonymous wording, maintainin
 
 **ASSIGNMENT**
 
-#####**Course Title:** *Building a Resilient Digital Future: Suggesting Legal Reforms for Cyber Law in Bangladesh Through Global Best Practices*
+**Course Title:** *Building a Resilient Digital Future: Suggesting Legal Reforms for Cyber Law in Bangladesh Through Global Best Practices*#####
 ###**Course Code:** *CSE 455*
 ###**Course Name:** *Computer Ethics and Cyber Law*
 
